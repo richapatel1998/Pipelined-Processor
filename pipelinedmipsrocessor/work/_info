@@ -1,0 +1,1045 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5b/examples
+T_opt
+!s110 1542321524
+VCAD`IW0hXHhlm2]^fle=_3
+04 18 9 work fivestageprocessor structure 1
+=1-509a4c476435-5bedf573-39a-1a34
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.5b;63
+R0
+Eadder_32
+Z1 w1488836966
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dU:/cpre381/projectB
+Z6 8U:/cpre381/projectB/Project-B/Components/adder_32.vhd
+Z7 FU:/cpre381/projectB/Project-B/Components/adder_32.vhd
+l0
+L5
+VeK[12<UiLG]a1CP3HC_eY3
+!s100 egmg<On7Df2]T:f6g5hnM0
+Z8 OL;C;10.5b;63
+32
+Z9 !s110 1543536342
+!i10b 1
+Z10 !s108 1543536341.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/adder_32.vhd|
+Z12 !s107 U:/cpre381/projectB/Project-B/Components/adder_32.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Amixed
+R2
+R3
+R4
+DEx4 work 8 adder_32 0 22 eK[12<UiLG]a1CP3HC_eY3
+32
+R9
+l12
+L10
+VnT?UOP6K@c^]PY1SnICWA0
+!s100 S]T[0gc@lD5;NQmc<dko_0
+R8
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Ealu
+Z15 w1489020722
+R2
+R3
+R4
+R5
+Z16 8U:/cpre381/projectB/Project-B/Components/ALU.vhd
+Z17 FU:/cpre381/projectB/Project-B/Components/ALU.vhd
+l0
+L5
+VNKag>E1^__L1cUUkNTIOW2
+!s100 Z8@PE[3L6GO25hoSiQKiA0
+R8
+32
+R9
+!i10b 1
+Z18 !s108 1543536342.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/ALU.vhd|
+Z20 !s107 U:/cpre381/projectB/Project-B/Components/ALU.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 NKag>E1^__L1cUUkNTIOW2
+32
+R9
+l18
+L14
+VmmFXBXYfOmV2R1kb9gk;U0
+!s100 Z>]N[e?I0aF^P^J25J:fe3
+R8
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R13
+R14
+Eand_2
+Z21 w1489016836
+R2
+R3
+R4
+R5
+Z22 8U:/cpre381/projectB/Project-B/Components/and_2.vhd
+Z23 FU:/cpre381/projectB/Project-B/Components/and_2.vhd
+l0
+L5
+VBUBWRAc4f>HDYK<64iaVQ1
+!s100 CzU<26n4<nAXZ?hl60M8<3
+R8
+32
+Z24 !s110 1543536343
+!i10b 1
+Z25 !s108 1543536343.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/and_2.vhd|
+Z27 !s107 U:/cpre381/projectB/Project-B/Components/and_2.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 5 and_2 0 22 BUBWRAc4f>HDYK<64iaVQ1
+32
+R24
+l12
+L10
+VG50O?a?iRe]i[80:BLWIT2
+!s100 0^FjP8o4ZMzD?4]ZRjG8o0
+R8
+!i10b 1
+R25
+R26
+R27
+!i113 0
+R13
+R14
+Ebranch_comparator
+Z28 w1490381426
+R2
+R3
+R4
+R5
+Z29 8U:/cpre381/projectB/Project-B/Components/branch_comparator.vhd
+Z30 FU:/cpre381/projectB/Project-B/Components/branch_comparator.vhd
+l0
+L5
+Vflg@9<0:hGcLK0_:zjb]Q3
+!s100 DdCg7RCV7j57?oC5ZI6zR1
+R8
+32
+R24
+!i10b 1
+R25
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/branch_comparator.vhd|
+Z32 !s107 U:/cpre381/projectB/Project-B/Components/branch_comparator.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 17 branch_comparator 0 22 flg@9<0:hGcLK0_:zjb]Q3
+32
+R24
+l12
+L10
+VN]]0jloj_=ZR=UoC1cMHP3
+!s100 eM;SF9WTgcP6oBziK^m;A2
+R8
+!i10b 1
+R25
+R31
+R32
+!i113 0
+R13
+R14
+Edmem
+Z33 w1488837934
+Z34 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z35 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R3
+R4
+R5
+Z36 8U:/cpre381/projectB/Project-B/Components/dmem.vhd
+Z37 FU:/cpre381/projectB/Project-B/Components/dmem.vhd
+l0
+L24
+ViQOOl:HY^3d0`6XdCmn?^1
+!s100 nXG04B1NNg?Qj;_6dQ?`_1
+R8
+32
+Z38 !s110 1543536344
+!i10b 1
+Z39 !s108 1543536344.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/dmem.vhd|
+Z41 !s107 U:/cpre381/projectB/Project-B/Components/dmem.vhd|
+!i113 0
+R13
+R14
+Abehavioral
+R34
+R35
+R3
+R4
+DEx4 work 4 dmem 0 22 iQOOl:HY^3d0`6XdCmn?^1
+32
+R38
+l482
+L35
+VN4f;QZ?]B^0N_0z2[ZM1c3
+!s100 jbhn^6;Eh_C3g@l>dOo4U0
+R8
+!i10b 1
+R39
+R40
+R41
+!i113 0
+R13
+R14
+Eex_mem
+Z42 w1490644362
+R2
+R3
+R4
+R5
+Z43 8U:/cpre381/projectB/Project-B/Components/pipeline registers/ex_mem.vhd
+Z44 FU:/cpre381/projectB/Project-B/Components/pipeline registers/ex_mem.vhd
+l0
+L5
+ViVF4TXNL5QWOoilk;Cig41
+!s100 Tnd3O?>zB0laC7?G73QhH3
+R8
+32
+Z45 !s110 1543536348
+!i10b 1
+Z46 !s108 1543536347.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/pipeline registers/ex_mem.vhd|
+Z48 !s107 U:/cpre381/projectB/Project-B/Components/pipeline registers/ex_mem.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 6 ex_mem 0 22 iVF4TXNL5QWOoilk;Cig41
+32
+R45
+l40
+L38
+VU[P14=1>I4Pj@B4Z9Zh@o0
+!s100 Bo3omQQoEX3KI7O`<0JFU1
+R8
+!i10b 1
+R46
+R47
+R48
+!i113 0
+R13
+R14
+Efivestageprocessor
+Z49 w1543532133
+R3
+R4
+R5
+Z50 8U:/cpre381/projectB/fiveStageProcessor2.vhd
+Z51 FU:/cpre381/projectB/fiveStageProcessor2.vhd
+l0
+L6
+VS9gdE5J7cZRlU4@gn8U2A3
+!s100 m9LE@4CO62SJB:hcn_N002
+R8
+32
+Z52 !s110 1543532172
+!i10b 1
+Z53 !s108 1543532171.000000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/fiveStageProcessor2.vhd|
+Z55 !s107 U:/cpre381/projectB/fiveStageProcessor2.vhd|
+!i113 0
+R13
+R14
+Astructure
+R3
+R4
+DEx4 work 18 fivestageprocessor 0 22 S9gdE5J7cZRlU4@gn8U2A3
+32
+R52
+l373
+L14
+VoRIPn^zkzmE_SSc]UBIOB0
+!s100 2jCWXBLi3@oSS@3X<JF6K3
+R8
+!i10b 1
+R53
+R54
+R55
+!i113 0
+R13
+R14
+Efivestageprocessor2
+Z56 w1543534490
+R3
+R4
+R5
+R50
+R51
+l0
+L6
+Vm<3;@]ooDgO1FVIFn9Zc?1
+!s100 =c@MdCUDIQ6UaiI?9A>>]1
+R8
+32
+Z57 !s110 1543536350
+!i10b 1
+Z58 !s108 1543536350.000000
+R54
+R55
+!i113 0
+R13
+R14
+Astructure
+R3
+R4
+DEx4 work 19 fivestageprocessor2 0 22 m<3;@]ooDgO1FVIFn9Zc?1
+32
+R57
+l372
+L14
+VP;`9VS^aIN68ZUgX5`U6L2
+!s100 =6;BHDa3bi`0^U5LnNQD_1
+R8
+!i10b 1
+R58
+R54
+R55
+!i113 0
+R13
+R14
+Eforwarding_unit
+Z59 w1543536338
+R2
+R3
+R4
+R5
+Z60 8U:/cpre381/projectB/forwarding_unit.vhd
+Z61 FU:/cpre381/projectB/forwarding_unit.vhd
+l0
+L5
+VV_4?eJ3]Rj`0emM4WAZ3R2
+!s100 o:[9MGMkGZYYLUe9PBKFM2
+R8
+32
+Z62 !s110 1543536351
+!i10b 1
+R58
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/forwarding_unit.vhd|
+Z64 !s107 U:/cpre381/projectB/forwarding_unit.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 15 forwarding_unit 0 22 V_4?eJ3]Rj`0emM4WAZ3R2
+32
+R62
+l21
+L19
+V6aFTZUh7?SDkJkHolT8HU3
+!s100 1>I=A39<QdUZO:P=OGCSA0
+R8
+!i10b 1
+R58
+R63
+R64
+!i113 0
+R13
+R14
+Ehazard_detect
+Z65 w1543532704
+R2
+R3
+R4
+R5
+Z66 8U:/cpre381/projectB/hazard_detect.vhd
+Z67 FU:/cpre381/projectB/hazard_detect.vhd
+l0
+L5
+VE^az`>aO8B_VjEUJOS1<k2
+!s100 QO9Ff7c<WU7[YWJQYK2;l1
+R8
+32
+R62
+!i10b 1
+Z68 !s108 1543536351.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/hazard_detect.vhd|
+Z70 !s107 U:/cpre381/projectB/hazard_detect.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 13 hazard_detect 0 22 E^az`>aO8B_VjEUJOS1<k2
+32
+R62
+l26
+L24
+VaNM2BfU]IhF7g9LohUCO=2
+!s100 ^==m`N<eM6L[Thj8DAG040
+R8
+!i10b 1
+R68
+R69
+R70
+!i113 0
+R13
+R14
+Eid_ex
+Z71 w1490244946
+R2
+R3
+R4
+R5
+Z72 8U:/cpre381/projectB/Project-B/Components/pipeline registers/id_ex.vhd
+Z73 FU:/cpre381/projectB/Project-B/Components/pipeline registers/id_ex.vhd
+l0
+L5
+Vni>i117HoQ]fMGP]TP7W>1
+!s100 TXc;CFDzE`YNjY96L8Y:G2
+R8
+32
+R45
+!i10b 1
+Z74 !s108 1543536348.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/pipeline registers/id_ex.vhd|
+Z76 !s107 U:/cpre381/projectB/Project-B/Components/pipeline registers/id_ex.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 5 id_ex 0 22 ni>i117HoQ]fMGP]TP7W>1
+32
+R45
+l50
+L48
+V[FiLl=ZHKUZSW]zLh4Qgf1
+!s100 `H<9W@ci8E7OX3bE<OiIR0
+R8
+!i10b 1
+R74
+R75
+R76
+!i113 0
+R13
+R14
+Eif_id
+Z77 w1490244948
+R2
+R3
+R4
+R5
+Z78 8U:/cpre381/projectB/Project-B/Components/pipeline registers/if_id.vhd
+Z79 FU:/cpre381/projectB/Project-B/Components/pipeline registers/if_id.vhd
+l0
+L5
+V4cAzIQ10aO[5F@D;gUZJh3
+!s100 Eo9j@Wm2C<bXW>a3F`1SI1
+R8
+32
+Z80 !s110 1543536349
+!i10b 1
+R74
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/pipeline registers/if_id.vhd|
+Z82 !s107 U:/cpre381/projectB/Project-B/Components/pipeline registers/if_id.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 5 if_id 0 22 4cAzIQ10aO[5F@D;gUZJh3
+32
+R80
+l16
+L14
+V56zkY1970Glk>7>_fio2=2
+!s100 MBH3bkLW>FTQJV7G3KiSc0
+R8
+!i10b 1
+R74
+R81
+R82
+!i113 0
+R13
+R14
+Eimem
+Z83 w1488837948
+R34
+R35
+R3
+R4
+R5
+Z84 8U:/cpre381/projectB/Project-B/Components/imem.vhd
+Z85 FU:/cpre381/projectB/Project-B/Components/imem.vhd
+l0
+L24
+VjXhbBJffKcnG98J4k;oNl2
+!s100 ;:C@ekial1:hh0oimdP3>3
+R8
+32
+R38
+!i10b 1
+R39
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/imem.vhd|
+Z87 !s107 U:/cpre381/projectB/Project-B/Components/imem.vhd|
+!i113 0
+R13
+R14
+Abehavioral
+R34
+R35
+R3
+R4
+DEx4 work 4 imem 0 22 jXhbBJffKcnG98J4k;oNl2
+32
+R38
+l482
+L35
+Vm?YB5bKRQ12OK21KHa^^S2
+!s100 6UBLDD7nKFLM30^2gU3ok2
+R8
+!i10b 1
+R39
+R86
+R87
+!i113 0
+R13
+R14
+Ejump_extra
+Z88 w1543532938
+R2
+R3
+R4
+R5
+Z89 8U:/cpre381/projectB/jump_extra.vhd
+Z90 FU:/cpre381/projectB/jump_extra.vhd
+l0
+L6
+VBK6QgE9W=m>YANF^W<IXn0
+!s100 3ecl5;z3EWee^GA=gD;cQ2
+R8
+32
+R57
+!i10b 1
+Z91 !s108 1543536349.000000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/jump_extra.vhd|
+Z93 !s107 U:/cpre381/projectB/jump_extra.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 10 jump_extra 0 22 BK6QgE9W=m>YANF^W<IXn0
+32
+R57
+l14
+L12
+VDeA[0gQ5U<egfUSG3Bhi61
+!s100 o>4Mz:;@MRgI0oa@9SO[23
+R8
+!i10b 1
+R91
+R92
+R93
+!i113 0
+R13
+R14
+Emain_control
+Z94 w1543533132
+R2
+R3
+R4
+R5
+Z95 8U:/cpre381/projectB/main_control.vhd
+Z96 FU:/cpre381/projectB/main_control.vhd
+l0
+L5
+Vz8;kVNm:XoMbnJdfI8c9]0
+!s100 i^g9aQzd4?KVgPb7ZUn>23
+R8
+32
+Z97 !s110 1543536341
+!i10b 1
+R10
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/main_control.vhd|
+Z99 !s107 U:/cpre381/projectB/main_control.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 12 main_control 0 22 z8;kVNm:XoMbnJdfI8c9]0
+32
+R97
+l24
+L18
+V0^2Jj]PMNQTY>6gYf56U73
+!s100 N5b2lIkT4PA:Y<i;iZf]i0
+R8
+!i10b 1
+R10
+R98
+R99
+!i113 0
+R13
+R14
+Emem_wb
+Z100 w1490652230
+R2
+R3
+R4
+R5
+Z101 8U:/cpre381/projectB/Project-B/Components/pipeline registers/mem_wb.vhd
+Z102 FU:/cpre381/projectB/Project-B/Components/pipeline registers/mem_wb.vhd
+l0
+L5
+VnCU:lDdH]^S@0lmVPTAfI1
+!s100 41QfeRWiW:7f9G@=F3?>10
+R8
+32
+R80
+!i10b 1
+R91
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/pipeline registers/mem_wb.vhd|
+Z104 !s107 U:/cpre381/projectB/Project-B/Components/pipeline registers/mem_wb.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 6 mem_wb 0 22 nCU:lDdH]^S@0lmVPTAfI1
+32
+R80
+l41
+L39
+V[ggMPUWfhmMXH0GdPMNi;2
+!s100 AUjIHb8S;^ZRg_K4mMQBg3
+R8
+!i10b 1
+R91
+R103
+R104
+!i113 0
+R13
+R14
+Emux21_1bit
+Z105 w1489019794
+R2
+R3
+R4
+R5
+Z106 8U:/cpre381/projectB/Project-B/Components/mux21_1bit.vhd
+Z107 FU:/cpre381/projectB/Project-B/Components/mux21_1bit.vhd
+l0
+L5
+V5ad@XP^_T>A>>_lTei:zI3
+!s100 SIHe3]Q60iOJ5h=e5=^Dc0
+R8
+32
+R38
+!i10b 1
+R25
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/mux21_1bit.vhd|
+Z109 !s107 U:/cpre381/projectB/Project-B/Components/mux21_1bit.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 10 mux21_1bit 0 22 5ad@XP^_T>A>>_lTei:zI3
+32
+R38
+l13
+L11
+V@W`aza?EkYE4NmOF0n^6G3
+!s100 Q1ING><NR6emP3?XbAW[I1
+R8
+!i10b 1
+R25
+R108
+R109
+!i113 0
+R13
+R14
+Emux21_32bit
+Z110 w1489019522
+R2
+R3
+R4
+R5
+Z111 8U:/cpre381/projectB/Project-B/Components/mux21_32bit.vhd
+Z112 FU:/cpre381/projectB/Project-B/Components/mux21_32bit.vhd
+l0
+L5
+Vd9dSQQWe_GcfQ1:C8b<WQ3
+!s100 gMWSROBmKcgSLaeGGchYQ1
+R8
+32
+Z113 !s110 1543536345
+!i10b 1
+Z114 !s108 1543536345.000000
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/mux21_32bit.vhd|
+Z116 !s107 U:/cpre381/projectB/Project-B/Components/mux21_32bit.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 11 mux21_32bit 0 22 d9dSQQWe_GcfQ1:C8b<WQ3
+32
+R113
+l13
+L11
+V<H<k3E0m2YM<R:4j`K>MO0
+!s100 35lKhO<@n09CbU14>OUjb1
+R8
+!i10b 1
+R114
+R115
+R116
+!i113 0
+R13
+R14
+Emux21_5bit
+Z117 w1489019768
+R2
+R3
+R4
+R5
+Z118 8U:/cpre381/projectB/Project-B/Components/mux21_5bit.vhd
+Z119 FU:/cpre381/projectB/Project-B/Components/mux21_5bit.vhd
+l0
+L5
+V?alb?N<RzYheEJOH4OhoE1
+!s100 3Ke0CNONJ:gj14j=ck<Z?3
+R8
+32
+R113
+!i10b 1
+R114
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/mux21_5bit.vhd|
+Z121 !s107 U:/cpre381/projectB/Project-B/Components/mux21_5bit.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 10 mux21_5bit 0 22 ?alb?N<RzYheEJOH4OhoE1
+32
+R113
+l13
+L11
+VKih<fU?je7_ga?moDPmQn2
+!s100 ZCiZ4l:7ikI<3HzVb[cmM0
+R8
+!i10b 1
+R114
+R120
+R121
+!i113 0
+R13
+R14
+Emux31_32bit
+Z122 w1542317475
+R2
+R3
+R4
+R5
+Z123 8U:/cpre381/projectB/mux31_32bit.vhd
+Z124 FU:/cpre381/projectB/mux31_32bit.vhd
+l0
+L5
+VKloJ90k7gLHAfSgh1NeVP0
+!s100 Teza@S?QoH=^RoX9cXl5M0
+R8
+32
+R97
+!i10b 1
+R10
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/mux31_32bit.vhd|
+Z126 !s107 U:/cpre381/projectB/mux31_32bit.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 11 mux31_32bit 0 22 KloJ90k7gLHAfSgh1NeVP0
+32
+R97
+l13
+L11
+VChVd@cA_R<2^_jK_:;K[<1
+!s100 cT0=kMk^XMU^GVi`[=5A90
+R8
+!i10b 1
+R10
+R125
+R126
+!i113 0
+R13
+R14
+Epc_reg
+Z127 w1490651764
+R2
+R3
+R4
+R5
+Z128 8U:/cpre381/projectB/Project-B/Components/pc_reg.vhd
+Z129 FU:/cpre381/projectB/Project-B/Components/pc_reg.vhd
+l0
+L5
+Vg6GJ<RC:E2dNI7Hl>:COR1
+!s100 <8a@gzNJ6O7T2D@=m0ccP0
+R8
+32
+Z130 !s110 1543536346
+!i10b 1
+R114
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/pc_reg.vhd|
+Z132 !s107 U:/cpre381/projectB/Project-B/Components/pc_reg.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 6 pc_reg 0 22 g6GJ<RC:E2dNI7Hl>:COR1
+32
+R130
+l15
+L13
+Vj8NzVd9=`BT@IgF:E;WWT1
+!s100 3PU]IIPEL^18Zn[UUW]f72
+R8
+!i10b 1
+R114
+R131
+R132
+!i113 0
+R13
+R14
+Eregister_file
+Z133 w1542321893
+R2
+R3
+R4
+R5
+Z134 8U:/cpre381/projectB/Project-B/Components/register_file.vhd
+Z135 FU:/cpre381/projectB/Project-B/Components/register_file.vhd
+l0
+L5
+VOV4<M?_bVai1H3P^2ek7B3
+!s100 0;6l8OR7N:fQ8?E^89Gj30
+R8
+32
+R130
+!i10b 1
+Z136 !s108 1543536346.000000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/register_file.vhd|
+Z138 !s107 U:/cpre381/projectB/Project-B/Components/register_file.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 13 register_file 0 22 OV4<M?_bVai1H3P^2ek7B3
+32
+R130
+l23
+L17
+V<U`<9iMaJaEg1O1J@CP<c3
+!s100 a`d=PG[>:QXdoV:AG2L1e0
+R8
+!i10b 1
+R136
+R137
+R138
+!i113 0
+R13
+R14
+Esign_extender_16_32
+Z139 w1488835800
+R2
+R3
+R4
+R5
+Z140 8U:/cpre381/projectB/Project-B/Components/sign_extender_16_32.vhd
+Z141 FU:/cpre381/projectB/Project-B/Components/sign_extender_16_32.vhd
+l0
+L5
+V[i9oH0;lk]ZoBPS:<349D2
+!s100 fG?LOX^^lH4;UE9fMB]Z^2
+R8
+32
+Z142 !s110 1543536347
+!i10b 1
+R46
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/sign_extender_16_32.vhd|
+Z144 !s107 U:/cpre381/projectB/Project-B/Components/sign_extender_16_32.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 19 sign_extender_16_32 0 22 [i9oH0;lk]ZoBPS:<349D2
+32
+R142
+l12
+L10
+VFZPPX5MQTlEI]Pa9c=nc;0
+!s100 @@jWTG6SS0InUNlbG;c2R3
+R8
+!i10b 1
+R46
+R143
+R144
+!i113 0
+R13
+R14
+Esll_2
+Z145 w1488837096
+R2
+R3
+R4
+R5
+Z146 8U:/cpre381/projectB/Project-B/Components/sll_2.vhd
+Z147 FU:/cpre381/projectB/Project-B/Components/sll_2.vhd
+l0
+L6
+VcE08ijZ=8FTSPE=VX_@Zc3
+!s100 F_z?LI[IV_bC@Y_G05@mn2
+R8
+32
+R142
+!i10b 1
+R46
+Z148 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/Project-B/Components/sll_2.vhd|
+Z149 !s107 U:/cpre381/projectB/Project-B/Components/sll_2.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 5 sll_2 0 22 cE08ijZ=8FTSPE=VX_@Zc3
+32
+R142
+l13
+L11
+Vn>RQ=_G7o?E0[Mj:okHHC2
+!s100 8;o^EcbggZLl8njhZbT;02
+R8
+!i10b 1
+R46
+R148
+R149
+!i113 0
+R13
+R14
+Esll_2_25
+Z150 w1542319869
+R2
+R3
+R4
+R5
+Z151 8U:/cpre381/projectB/sll_2_25.vhd
+Z152 FU:/cpre381/projectB/sll_2_25.vhd
+l0
+L6
+V:R]G6^SN^UL7Bz_oAQ<VT2
+!s100 k]F3b?LM@=H8O93k1`M2f2
+R8
+32
+R80
+!i10b 1
+R91
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|U:/cpre381/projectB/sll_2_25.vhd|
+Z154 !s107 U:/cpre381/projectB/sll_2_25.vhd|
+!i113 0
+R13
+R14
+Amixed
+R2
+R3
+R4
+DEx4 work 8 sll_2_25 0 22 :R]G6^SN^UL7Bz_oAQ<VT2
+32
+R80
+l13
+L11
+V9WMjjY1N^UI7Lb>Wg[4U13
+!s100 nmM41;HL[ePYzgc8_iFg03
+R8
+!i10b 1
+R91
+R153
+R154
+!i113 0
+R13
+R14
